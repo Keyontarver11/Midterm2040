@@ -1,0 +1,35 @@
+body{
+    margin:0;
+    padding:0;
+}
+
+.studentscontainer{
+    flex-direction: column;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    
+    width:100vw;
+}
+
+.display-students{
+   
+    width:100vw;
+    display: flex;
+    flex-direction: column;
+    border:1px solid black;
+
+    
+    
+    
+}
+
+.studentflex{
+    display:flex;
+    justify-content: center;
+    margin-left:300px;
+    margin-right:300px;
+    border:1px solid black;
+    height:36px;
+    font-size: 28px;
+}
